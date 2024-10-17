@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { useCallback, useEffect, useRef, useState } from 'react'
 import './App.css'
 
@@ -75,20 +74,6 @@ function App() {
           </div>
         </div>
       </div>
-=======
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import ChangeBg from './component/changeBg'
-
-function App() {
-  const [count, setCount] = useState(0)
-
-  return (
-    <>
-      <ChangeBg />
->>>>>>> f8a4ab709ce2dd5c893257fdbf60c199dce4194a
     </>
   )
 }
