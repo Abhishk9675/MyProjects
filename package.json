@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "passwordgenerator",
+=======
+  "name": "bgchange",
+>>>>>>> f8a4ab709ce2dd5c893257fdbf60c199dce4194a
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -25,7 +29,11 @@
     "eslint-plugin-react-refresh": "^0.4.12",
     "globals": "^15.9.0",
     "postcss": "^8.4.47",
+<<<<<<< HEAD
     "tailwindcss": "^3.4.14",
+=======
+    "tailwindcss": "^3.4.13",
+>>>>>>> f8a4ab709ce2dd5c893257fdbf60c199dce4194a
     "vite": "^5.4.8"
   }
 }
